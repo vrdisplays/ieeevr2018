@@ -11,7 +11,7 @@ Session 2: Optics, Kaan Aksit, [pdf](aksit.pdf)
 
 Session 3: High dynamic range in VR, Rafal Mantiuk, [pdf](mantiuk.pdf)
 
-Session 4: Gaze-aware displays, Katerina Mania, [pdf](mania.pdf)
+Session 4: Gaze-aware displays, Katerina Mania, [pdf1](mania1.pdf) [pdf2](mania2.pdf)
 
 Session 5: Motion-aware displays, Christian Richardt, [pdf](richardt.pdf)
 
