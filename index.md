@@ -1,3 +1,5 @@
+![alt text](https://github.com/vrdisplays/ieeevr2018/raw/master/2018_logo.png "logo")
+
 # Cutting-Edge VR/AR Display Technologies 
 ## (Gaze-, Accommodation-, Motion-aware and HDR-enabled)
 
