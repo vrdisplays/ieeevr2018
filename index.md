@@ -1,4 +1,4 @@
-<img src="https://github.com/vrdisplays/ieeevr2018/raw/master/2018_logo.png" width="200" height="100" style="float: left;">
+<img src="https://github.com/vrdisplays/ieeevr2018/raw/master/2018_logo.png" width="200" height="100">
 
 # Cutting-Edge VR/AR Display Technologies 
 
